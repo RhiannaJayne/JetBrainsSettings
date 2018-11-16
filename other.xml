@@ -1,0 +1,46 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <enable-debug-mode value="false" />
+    <enable-developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/10.10.0/bin/node" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/defra/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test/bin/python" value="false" />
+        <entry key="$USER_HOME$/defra/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualenvironments/belron/bin/python3.6" value="true" />
+        <entry key="$USER_HOME$/virtualenvironments/general/bin/python3.6" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/defra/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test/bin/python" value="false" />
+        <entry key="$USER_HOME$/defra/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualenvironments/belron/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualenvironments/general/bin/python3.6" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/.virtualenvs/defra/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/.virtualenvs/test/bin/python" value="false" />
+        <entry key="$USER_HOME$/defra/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python" value="false" />
+        <entry key="$USER_HOME$/testenvironment/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualenvironments/belron/bin/python3.6" value="false" />
+        <entry key="$USER_HOME$/virtualenvironments/general/bin/python3.6" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
